@@ -19,3 +19,8 @@ To read these notes you will need to:
 
 Due to Obsidian’s unstructured nature, understanding how to read my notes might seem daunting. If you don't know where to start, use the [[Linear Programming Master Note]] as an initial reference for navigation. 
 Also, at the top of every note, there are helpful things like tags and brief summaries. You'll also notice a `next` and `prev` properties that will link the next and previous note for easy navigation.
+
+## Credits
+These notes draw significant inspiration from the book "[Introduction To Linear Optimization](https://www.amazon.com/Introduction-Linear-Optimization-Scientific-Computation/dp/1886529191/ref=sr_1_1?crid=2O1KP89Q1ZT0E&dib=eyJ2IjoiMSJ9.9G6zqPZ74XhzaWDJlGigr4UJSHLQKqX8_2oypaYQAehGEVBO9LU-La2Rh2SzxSvt8ELNUCjnSghTn1vMQ34-GjYhUKTSvIROVVe4vzBUwTlQ55INeqj3doOCOxCppCVO7MqBOxQpkdFYo1VY_Z9wlAsyoCYGizLGlcRgjM7TzJqxtTmt5xB0L-tVqPPIrYjZ2rVD4oHbS-FRqYg-wiqUMK4VxGfhdOCu2UL5J42ia2g.2Qvm2t25-pna9fOZ99y4nCSU1daU0x9OPkquR3gyZnE&dib_tag=se&keywords=introduction+to+linear+programming&qid=1715372574&sprefix=introduction+to+linear+programming%2Caps%2C192&sr=8-1)" by D. Bertsimas and J.N Tsitsiklis. If you like my notes and would like to delve more into the subject, please check the book out and buy it to support the authors.
+
+If you've found value in these notes and wish to show your appreciation for the effort put into creating them, please consider giving this repository a star!
