@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"783a35baf1a874a5","type":"text","text":"![[LPP Definition#^07d883]]","x":-440,"y":-120,"width":560,"height":360,"color":"4"},
+		{"id":"4d45459055fdb3ee","type":"text","text":"![[LPP Definition#^73494d]]","x":500,"y":-60,"width":544,"height":280,"color":"4"}
+	],
+	"edges":[
+		{"id":"2e46c99faa3d0751","fromNode":"783a35baf1a874a5","fromSide":"right","toNode":"4d45459055fdb3ee","toSide":"left","color":"2","label":"Every linear program\ncan be rewritten\nin"}
+	]
+}

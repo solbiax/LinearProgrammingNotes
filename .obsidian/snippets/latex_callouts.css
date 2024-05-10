@@ -1,0 +1,66 @@
+.theorem-callout {
+    --callout-color: 238, 15, 149;
+    border: 2px solid rgb(var(--callout-color));
+    /* border-top: none; */
+    /* border-bottom: none; */
+    border-left: var(--size-2-2) solid rgb(var(--callout-color));
+    /* border-right: none; */
+    border-radius: 2px;
+    box-shadow: none;
+    padding: 0px;
+    font-family: CMU Serif, Times, Noto Serif JP;
+}
+
+.theorem-callout .callout-title {
+    padding: var(--size-2-3);
+    padding-left: var(--size-4-3);
+}
+
+.theorem-callout .callout-title-inner {
+    font-family: Inter;
+    font-weight: bold;
+    color: rgb(var(--callout-color));
+}
+
+.theorem-callout-main-title {
+    font-family: CMU Serif, Times, Noto Sans JP;
+    font-weight: bolder;
+}
+
+
+.theorem-callout-subtitle {
+    font-family: Inter;
+    font-weight: normal;
+}
+
+.theorem-callout .callout-content {
+    background-color: var(--background-primary);
+    padding: 1px 20px 2px 20px;
+}
+
+
+.callout[data-callout="algorithm"] {
+    --callout-icon: lucide-settings;
+    --callout-color: 110,110,110;
+    font-family: CMU Serif, Times, Noto Serif JP;
+    border: 2px solid rgb(var(--callout-color));
+    border-left: var(--size-2-2) solid rgb(var(--callout-color));
+    border-radius: 2px;
+}
+
+.callout[data-callout="algorithm"] .callout-title   .callout-title-inner {
+    font-family: Inter;
+    font-weight: bold;
+    font-family: CMU Serif, Times, Noto Serif JP;
+}
+
+.callout[data-callout="algorithm"] .callout-content {
+    background-color: var(--background-primary);
+    padding: 1px 20px 2px 20px;
+}
+
+.callout[data-callout="algorithm"] .callout-subtitle {
+    font-family: Inter;
+    font-weight: bold;
+    font-family: CMU Serif, Times, Noto Serif JP;
+}

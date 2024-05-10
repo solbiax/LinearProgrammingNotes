@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "translucency": false,
+  "textFontFamily": "SN Pro",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "latex_callouts",
+    "centered_imgs"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "callouts": {
+    "custom": [
+      "definition",
+      "proof",
+      "proposition",
+      "theorem",
+      "remark",
+      "corollary"
+    ],
+    "settings": {
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-book-a",
+            "color": "35, 245, 20"
+          }
+        }
+      ],
+      "proof": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle-2",
+            "color": "109, 187, 104"
+          }
+        }
+      ],
+      "proposition": [
+        {
+          "changes": {
+            "icon": "lucide-sparkles",
+            "color": "227, 13, 13"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-pencil-ruler"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "46, 214, 214"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "46, 214, 214"
+          }
+        }
+      ],
+      "theorem": [
+        {
+          "changes": {
+            "icon": "lucide-flame",
+            "color": "255, 5, 126"
+          }
+        }
+      ],
+      "remark": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "108, 153, 244"
+          }
+        }
+      ],
+      "corollary": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "255, 107, 107"
+          }
+        }
+      ],
+      "algorithm": [
+        {
+          "changes": {
+            "icon": "lucide-settings",
+            "color": "130, 143, 166"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
