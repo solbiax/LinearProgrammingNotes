@@ -1,5 +1,5 @@
 # Linear Programming Notes
-This repository features Obsidian-markup notes that thoroughly dissect the study of linear programming. From its geometric principles to the intricacies of the simplex method, these notes provide an exhaustive review on the topic. Illustrated with practical examples and intuitions, it's my aim to provide you with an all-inclusive and readily comprehensible resource that unravels the details of this fascinating subject.
+This repository features Obsidian-markdown notes that thoroughly dissect the study of linear programming. From its geometric principles to the intricacies of the simplex method, these notes provide an exhaustive review on the topic. Illustrated with practical examples and intuitions, it's my aim to provide you with an all-inclusive and readily comprehensible resource that unravels the details of this fascinating subject.
 
 The notes have been written with Obsidian, with the purpose of exploring its capabilities to enhance learning. Extensive backlinks are deployed to streamline understanding and recall essential concept during explanations and proofs.
 
