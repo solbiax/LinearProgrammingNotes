@@ -3,11 +3,13 @@ This repository features Obsidian-markdown notes that thoroughly dissect the stu
 
 The notes have been written with Obsidian, with the purpose of exploring its capabilities to enhance learning. Extensive backlinks are deployed to streamline understanding and recall essential concept during explanations and proofs.
 
-These notes are comprehensive yet designed with the goal of serving as a readily accessible reference. Hence, proofs, intuitions, and examples are usually nested within callouts while major theorems and results are accentuated in specially styled "boxes". This design approach facilitates swift identification of relevant content without sacrificing the opportunity to delve into comprehensive details should you wish to do so.
+These notes are comprehensive yet designed with the goal of serving as a readily accessible reference. Hence, proofs, intuitions, and examples are usually nested within callouts while major theorems and results are accentuated in specially styled "boxes". This design approach facilitates swift identification of relevant content without sacrificing the opportunity to delve into comprehensive details should you wish to do so. 
+
+![Alt text](notes_preview.png "A preview of my notes")
 
 ## How To Read These Notes
 To read these notes you will need to:
-1) [Download Obsidian](https://obsidian.md/) and install it. 
+1) [Download Obsidian](https://obsidian.md/) and install it (Don't worry! It's free and  very lightweight!)
 2) Use this command to copy the repository: 
 	```bash 
 	git clone https://github.com/solbiax/LinearProgrammingNotes.git 
